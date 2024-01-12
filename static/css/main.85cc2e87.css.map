@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.85cc2e87.css","mappings":"AACA,aAEE,wBAAyB,CACzB,oBAAqB,CAFrB,UAGF","sources":["App.css"],"sourcesContent":["\n.btn-primary {\n  color: #fff;\n  background-color: #007078;\n  border-color: #92CDDC;\n}\n"],"names":[],"sourceRoot":""}
